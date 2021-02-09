@@ -11,3 +11,13 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+
+##Data dictionary
+
+| Entity | Description |
+| --- | --- |
+| Class | Different categories of seats that can be booked for a flight. |
+| Destination | Location where specific flight is going to. |
+| Dynamic discounts | Price reduction that can vary depending on some factors (e.g., time left before flight departure). |
+| Flight | One-way connection between two airports at a specific date and time. |
+| Flight ticket | Accreditation that grants access to a specific flight. |
